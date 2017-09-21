@@ -1,5 +1,10 @@
 import math 
 
+
+def GitTP :
+	msg = "I will get the job done in few minutes with Python"
+	return 1;
+
 def Montalab(x):
     print("Montalab function is called")
     return 1
